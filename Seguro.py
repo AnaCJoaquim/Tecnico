@@ -9,4 +9,7 @@ class Seguro:
         self.cep = cep
         self.km_dia = km_dia
         self.garagem = garagem
+    def valSeg(self):
+        val = 2.780
+        return "R$" + val
 

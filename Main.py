@@ -44,6 +44,7 @@ while True:
                    input("Insira o CEP: "),
                    input("Insira os quilômetro rodados por dia: "),
                    input("Insira a garagem: "))
+        print(f"A expectativa do valor de seguro do carro é de: {S.valSeg()}")
     elif choice == 3:
          os.system("cls")
          D = Documentacao(input("Insira sua CNH: "),
