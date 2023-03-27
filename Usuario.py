@@ -6,6 +6,7 @@ class Cadastro:
         self.estado = estado
 
 
+j =10
 p = Cadastro(input("Insira seu nome: "), 
             input("Insira seu barirro: "),
             input("Insira sua cidade: "),
