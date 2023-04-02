@@ -12,4 +12,3 @@ class Seguro:
     def valSeg(self):
         val = 2.780
         return "R$" + val
-

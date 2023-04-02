@@ -7,4 +7,3 @@ class End:
         self.cidade = cidade
         self.estado = estado
         self.cep = cep
-        

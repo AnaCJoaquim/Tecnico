@@ -4,4 +4,3 @@ class Documentacao:
         self.renavam = renavam
         self.placa = placa
         self.ipva = ipva
-       

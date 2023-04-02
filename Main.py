@@ -1,4 +1,4 @@
-from Pessoa import *
+from CadPerfil import *
 from Endereco import *
 from Veiculo import *
 from Document import *
